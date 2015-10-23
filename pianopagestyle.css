@@ -241,14 +241,19 @@ aside {
 	width: 70%;
 }
 
-p > strong + em {
+p > strong {
 	font-weight: bold;
 	color: red;
 }
 
-h1, h2, h3, h4, h5, h6 {
+p > em {
+	font-weight: bolder;
+	color: deeppink;
+}
+
+article > h1, h2, h3, h4, h5, h6 {
 	font-family: Helvetica, Arial, sans-serif;
-	font-style: bold;
+	font-style: oblique;
 	color: maroon;
 	text-decoration:underline;
 }
