@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0d23f9db-b855-4628-9d9c-48758629937f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bio.html" afterPath="$PROJECT_DIR$/bio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lessonsform.html" afterPath="$PROJECT_DIR$/lessonsform.html" />
     </list>
     <ignored path="dgmd_e-20_assignment2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bio.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.6020067">
+              <caret line="55" column="298" selection-start-line="55" selection-start-column="298" selection-end-line="55" selection-end-column="298" />
               <folding />
             </state>
           </provider>
@@ -46,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lessonsform.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lessonsform.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lessonsform.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2804487">
+            <state vertical-scroll-proportion="-6.730769">
               <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
               <folding />
             </state>
@@ -76,8 +74,8 @@
       <list>
         <option value="$PROJECT_DIR$/pianopagestyle.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/bio.html" />
         <option value="$PROJECT_DIR$/lessonsform.html" />
+        <option value="$PROJECT_DIR$/bio.html" />
       </list>
     </option>
   </component>
@@ -225,18 +223,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bio.html">
+    <entry file="file://$PROJECT_DIR$/lessonsform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537">
+        <state vertical-scroll-proportion="-6.730769">
           <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessonsform.html">
+    <entry file="file://$PROJECT_DIR$/bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2804487">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.6020067">
+          <caret line="55" column="298" selection-start-line="55" selection-start-column="298" selection-end-line="55" selection-end-column="298" />
           <folding />
         </state>
       </provider>
