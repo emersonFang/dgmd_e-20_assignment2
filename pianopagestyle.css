@@ -254,7 +254,7 @@ p > em {
 	color: deeppink;
 }
 
-article > h1, h2, h3, h4, h5, h6 {
+article > h1, h3, h4, h5, h6 {
 	font-family: Helvetica, Arial, sans-serif;
 	font-style: oblique;
 	color: maroon;
