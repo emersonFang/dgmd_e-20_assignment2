@@ -1,0 +1,242 @@
+/* if you float, you must clear. */
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+} 
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: lightgrey;
+	padding: 0;
+	margin: 0;
+}
+
+.wrapper {
+	width: 94%;
+	padding: 10px;
+	overflow: auto;
+	margin: 0 auto;
+	border: solid black 1px;
+	padding-top: 100px;
+
+}
+
+header {
+	background-color: black;
+	color: white;
+	width: 100%;
+	overflow: auto;
+	position: fixed;
+}
+
+footer {
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	width:100%;
+	height: 30px;
+	background: black;
+	color: white;
+}
+
+footer p {
+	padding: 0.5em;
+	margin: 0;
+	float: left;
+}
+
+header h1 {
+	padding: 0.5em;
+	margin: 0;
+	float: left;
+	width: 40%;
+}
+
+header img {
+	width: 10%;
+	float:right;
+}
+
+nav {
+	font-size: 1.2em;
+	font-weight: bold;
+	padding: 0.5em;
+	width: 50%;
+	padding-top: 1.5em;
+	float:left;
+}
+
+nav ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	text-align: right;
+}
+
+nav li {
+	display: inline-block;
+	background-color: darkgrey;
+	border-radius: 15px;
+}
+
+nav a {
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	border: 2px;
+	border-radius: 15px;
+	padding: 0.5em;
+	box-shadow: 5px 5px 5px lightgrey;
+}
+
+nav a:hover {
+	display: inline-block;
+	padding: 0.5em;
+	background-color: white;
+	color: black;
+}
+
+article {
+	margin-right: 2%;
+	margin-top: 1em;
+	margin-bottom: 3em;
+	font-family: 'Lovers Quarrel', cursive;
+	font-size:1.5em;
+}
+
+article.welcome {
+	-webkit-columns: 3 200px;
+    -moz-columns: 3 200px;
+        columns: 3 200px;
+    -webkit-column-gap: 4em;
+    -moz-column-gap: 4em;
+        column-gap: 4em;
+    -webkit-column-rule: 2px dotted #000;
+    -moz-column-rule: 2px dotted #000;
+        column-rule: 2px dotted #000;
+
+}
+
+img.profile, img.violinplayer {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 12em;
+	float:left;
+	margin: 1em;
+}
+
+img.violin_pic {
+	width: 30%;
+	margin: 1em;
+	float: right;
+}
+
+h2.floatleft {
+	float:left;
+	font-size:4em;
+	width:60%;
+}
+
+img.musicnotes {
+	width: 20%;
+	margin: 1em;
+	float:left;
+	clear:left;
+}
+
+div.clear {
+	clear:both;
+}
+
+article h2 {
+	text-align: center;
+}
+
+input:not([type="radio"]):not([type="checkbox"]) {
+    display: block;
+    width: 20em;
+}
+
+header img.header {
+	padding: 0.5em;
+	margin: 0;
+	float: left;
+	width:40%;
+}
+
+fieldset.outer {
+    margin-bottom: 2em;
+    margin-right: 1em;
+    border: none;
+    border-radius:10px;
+    background-color:darkgrey;
+}
+
+fieldset.info{
+	margin-bottom: 2em;
+    margin-right: 1em;
+    border: none;
+    border-radius:10px;
+    background-color:lightgrey;	
+    width:45%;
+    float:left;
+    bottom:0;
+    display: flex;
+}
+
+fieldset.music{
+	margin-bottom: 2em;
+    margin-right: 1em;
+    border: none;
+    border-radius:10px;
+    background-color:lightgrey;
+    width:45%;
+    display: flex;
+}
+
+label {
+	display:inline-block;
+	padding-top:1em;
+}
+
+legend {
+	font-weight:bold;
+}
+
+textarea {
+	display:block;
+	margin-bottom: 1em;
+	width: 20em;
+}
+
+form{
+	display:block;
+	width: 70%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.form{
+	text-align:center;
+}
+
+button[type=submit] {padding:5px 15px; background:#ccc; border:0 none;
+cursor:pointer;
+border-radius: 5px;
+}
+
+button:hover {
+	background:silver;
+}
+
+aside {
+	float:right;
+	margin: 1em;
+	font-style: italic;
+	width: 70%;
+}
