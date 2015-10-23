@@ -201,6 +201,8 @@ fieldset.music{
 
 label {
 	display:inline-block;
+	border:dotted;
+	border-color:purple;
 	padding-top:1em;
 }
 
