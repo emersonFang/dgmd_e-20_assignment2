@@ -130,13 +130,12 @@ img.profile, img.violinplayer {
 	margin: 1em;
 	border-radius: 15px;
 }
-
 img.violin_pic {
 	width: 30%;
 	margin: 1em;
 	float: right;
+	border-radius: 15px;
 }
-
 h2.floatleft {
 	float:left;
 	font-size:4em;
@@ -148,6 +147,7 @@ img.musicnotes {
 	margin: 1em;
 	float:left;
 	clear:left;
+	border-radius: 15px;
 }
 
 div.clear {
@@ -162,7 +162,6 @@ input:not([type="radio"]):not([type="checkbox"]) {
     display: block;
     width: 20em;
 }
-
 header img.header {
 	padding: 0.5em;
 	margin: 0;
@@ -177,7 +176,6 @@ fieldset.outer {
     border-radius:10px;
     background-color:darkgrey;
 }
-
 fieldset.info{
 	margin-bottom: 2em;
     margin-right: 1em;
@@ -211,7 +209,6 @@ label {
 legend {
 	font-weight:bold;
 }
-
 textarea {
 	display:block;
 	margin-bottom: 1em;
@@ -224,7 +221,6 @@ form{
 	margin-left:auto;
 	margin-right:auto;
 }
-
 .form{
 	text-align:center;
 }
