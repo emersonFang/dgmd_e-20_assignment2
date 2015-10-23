@@ -240,3 +240,15 @@ aside {
 	font-style: italic;
 	width: 70%;
 }
+
+p > strong + em {
+	font-weight: bold;
+	color: red;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-style: bold;
+	color: maroon;
+	text-decoration:underline;
+}
