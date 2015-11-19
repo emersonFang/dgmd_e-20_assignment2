@@ -6,7 +6,7 @@ html {
 
 *, *:before, *:after {
   box-sizing: inherit;
-} 
+}
 
 body {
 	font-family: Helvetica, Arial, sans-serif;
@@ -181,7 +181,7 @@ fieldset.info{
     margin-right: 1em;
     border: none;
     border-radius:10px;
-    background-color:lightgrey;	
+    background-color:lightgrey;
     width:45%;
     float:left;
     bottom:0;
@@ -256,4 +256,52 @@ article > h1, h3, h4, h5, h6 {
 	font-style: oblique;
 	color: maroon;
 	text-decoration:underline;
+}
+
+.error {
+	border-color: red;
+	color: red;
+}
+
+input,
+textarea {
+	border-radius: 5px;
+	border: 1px solid green;
+	font-size: 1em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+select {
+	display: block;
+	width: 20rem;
+}
+
+.msg {
+	color: darkgreen;
+	font-weight: bold;
+	font-style: italic;
+	padding: 1em 0;
+}
+
+button {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+button.violin-btn {
+	color: blue;
+	background-color: skyblue;
+	border: 2px solid teal;
+	border-radius: 15px;
+	padding: 0.5em;
+	font-size: 0.75em;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+button.violin-btn:hover {
+	color: teal;
+	background-color: lightblue;
+	border-color: skyblue;
 }

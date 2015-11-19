@@ -23,36 +23,36 @@
 	</header>
 	<div class="wrapper">
 	<h2 class="form">Contact Form</h2>
-	<h3 class="form">Fill the form below with any lesson inquiries:</h3>
+	<h3 class="form">Fill the form below with any lesson inquiries.</h3>
+	<h3 class="form">Starred fields are required.</h3>
 	<form>
 	<fieldset class="outer">
 	<fieldset class="info">
 	<legend>Your information:</legend>	
-		<label for="firstname">First Name: <input type="text" id="firstname">
-		</label>
+		<label for="firstname">First Name:*	<input type="name" id="firstname">
+		<span class="error"></span></label>
 		<br>
 		
-		<label for="lastname">Last Name: <input type="text" id="lastname">
-		</label>
+		<label for="lastname">Last Name:* <input type="text" id="lastname">
+		<span class="error"></span></label>
 		<br>
 		
 		<label for="phone">Phone Number: <input type="tel" id="phone" placeholder="(xxx)-xxx-xxxx">
 		</label>
 		<br>
 
-		<label for="email">E-mail: <input type="email" id="email" placeholder="example@example.com">
-		</label>
+		<label for="email">E-mail:* <input type="email" id="email" placeholder="example@example.com">
+		<span class="error"></span></label>
 		<br>
 
 		<p>Who is interested in lessons?</p>
-			<label>
-					<input type="radio" name="who" value="child"> Child 
-			</label>
-			<label>
-					<input type="radio" name="who" value="adult"> Adult
-			</label>
-			<label>
-					<input type="radio" name="who" value="both"> Both
+			<label for="whosinterested">
+				<select name="whosinterested" id="whosinterested">
+						<option value="child">Child</option> 
+						<option value="adult">Adult</option>
+						<option value="both">Both</option>
+				</select>
+				<div class="msg"></div>
 			</label>
 	</fieldset>
 	<fieldset class="music">
@@ -80,7 +80,7 @@
 		<textarea id="comments" name="comments" placeholder="Any additional questions for me, or information about yourself?"></textarea>
 		</label>
 	</fieldset>
-	<button type="submit">Submit</button>
+	<button name="submit" type="submit" id="formbutton">Submit</button>
 	</fieldset>
 	</form>
 	</div>
@@ -94,6 +94,11 @@
 		</a>
 		</p>
 	</footer>
+
+    <!-- javascript -->
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+  	<script src="pianopagescript.js"></script>
+
 </body>
 
 </html>
