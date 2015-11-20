@@ -29,9 +29,19 @@
 		<canvas></canvas>
 		<div class="clear"></div>
 		<div class="wrap">
-		<button id="canvas_draw-btn">Click for a special note.</button>
+		<button id="canvas_draw-btn">Click for a dark note.</button>
 		<button id="canvas_animate-btn">Animate!</button>
 		<button id="canvas_clear-btn">Clear Canvas</button>
+		<br>
+		<label id="colorlabel">Choose a different color for the note:</label>
+		<select id="notecolor">
+            <option checked value="red">Red</option>
+            <option value="pink">Pink</option>
+            <option value="green">Green</option>
+            <option value="blue">Blue</option>
+        </select>
+        <div class="errormsg"></div>
+        <button id="presto">Change color</button>
 		</div>
 		</div>	
 
