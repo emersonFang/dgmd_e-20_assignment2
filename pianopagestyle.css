@@ -130,6 +130,47 @@ img.profile, img.violinplayer {
 	margin: 1em;
 	border-radius: 15px;
 }
+
+canvas {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15em;
+	height: 15em;
+	float:left;
+	margin: 1em;
+	border-radius: 15px;
+	border: 1px black solid;
+}
+
+.canvas_container {
+	width: auto;
+	height: auto;
+	float:left;
+}
+#canvas_draw-btn, #canvas_clear-btn, #canvas_animate-btn {
+	color: white;
+	background-color: black;
+	border: 1px solid black;
+	border-radius: 15px;
+	padding: 0.5em;
+	font-size: 0.5em;
+	display:inline-block;
+	margin: 0 auto;
+	text-align:center;
+}
+
+#canvas_draw-btn:hover, #canvas_clear-btn:hover, #canvas_animate-btn:hover {
+	color: black;
+	background-color: white;
+	border-color: white;
+}
+
+.wrap {
+	margin: 0 auto;
+	text-align:center;	
+}
+
 img.violin_pic {
 	width: 30%;
 	margin: 1em;
