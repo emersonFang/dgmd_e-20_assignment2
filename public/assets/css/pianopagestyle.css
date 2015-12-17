@@ -21,8 +21,6 @@ body {
 	overflow: auto;
 	margin: 0 auto;
 	border: solid black 1px;
-	padding-top: 100px;
-
 }
 
 header {
@@ -123,7 +121,21 @@ article.welcome {
 
 }
 
-img.profile, img.violinplayer {
+img.ui-block_image {
+	width:100%;
+	border:0.5em;
+	border-radius: 15px;
+}
+
+.ui-grid-c-image {
+	width:90%;
+	border-radius:15px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.profile {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -131,6 +143,14 @@ img.profile, img.violinplayer {
 	float:left;
 	margin: 1em;
 	border-radius: 15px;
+}
+
+img.violinplayer {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 15px;
+	width:40%;
 }
 
 canvas {
@@ -341,7 +361,7 @@ select {
 }
 
 button {
-	display:block;
+	display: block;
 	margin-left:auto;
 	margin-right:auto;
 }
@@ -356,6 +376,7 @@ button.violin-btn {
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
+	width:50%;
 }
 button.violin-btn:hover {
 	color: teal;
