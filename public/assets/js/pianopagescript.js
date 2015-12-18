@@ -39,13 +39,13 @@ $(document).ready(function(){
 			$('#firstname, label[for="firstname"]').attr({
 				class: 'error'
 			}); //end attr
-			$('#firstname + .error').html('Please enter your first name.');
+			$('.nofirstname').html('Please enter your first name.');
 			event.preventDefault();
 		} else {
 			$('#firstname, label[for="firstname"]').attr({
 				class: 'none'
 			});
-			$('#firstname + .error').html(' ');
+			$('.nofirstname').html(' ');
 		}
 	}); //end focusout
 
@@ -55,13 +55,13 @@ $(document).ready(function(){
 			$('#lastname, label[for="lastname"]').attr({
 				class: 'error'
 			}); //end attr
-			$('#lastname + .error').html('Please enter your last name.');
+			$('.nolastname').html('Please enter your last name.');
 			event.preventDefault();
 		} else {
 			$('#lastname, label[for="lastname"]').attr({
 				class: 'none'
 			});
-			$('#lastname + .error').html(' ');
+			$('.nolastname').html(' ');
 		}
 	}); //end focusout
 
@@ -71,15 +71,53 @@ $(document).ready(function(){
 			$('#email, label[for="email"]').attr({
 				class: 'error'
 			}); //end attr
-			$('#email + .error').html('Please enter your email address.');
+			$('.noemail').html('Please enter your email address.');
 			event.preventDefault();
 		} else {
 			$('#email, label[for="email"]').attr({
 				class: 'none'
 			});
-			$('#email + .error').html(' ');
+			$('.noemail').html(' ');
 		}
 	}); //end focusout
+
+
+	$('#formbutton').tap(function(submit){
+		if($('#firstname').val().length == 0) {
+			$('.nofirstname').text('Please enter your first name.');
+			submit.preventDefault();
+		} else if($('#lastname').val().length == 0) {
+			$('.nolastname').text('Please enter your last name.');
+			submit.preventDefault();
+		} else if ($('#email').val().length == 0) {
+			$('.email').text('Please enter your email.');
+			submit.preventDefault();
+		} else {
+			alert("This form doesn't actually go anywhere.  Haha.");
+			submit.preventDefault();
+		}
+	}); //end click
+
+
+	$('#firstname').tap(function(){
+		$('.nofirstname').text('');
+		$('#firstname, label[for="firstname"]').attr({
+			class: 'none'
+		});
+	}); //end click
+	$('#lastname').tap(function(){
+		$('.nolastname').text('');
+		$('#lastname, label[for="lastname"]').attr({
+			class: 'none'
+		});
+	}); //end click
+	$('#email').tap(function(){
+		$('.noemail').text('');
+		$('#email, label[for="email"]').attr({
+			class: 'none'
+		});
+	}); //end click
+
 
 	$('#formbutton').click(function(submit){
 		$('#firstname + .error').html(' ');
@@ -136,5 +174,18 @@ $(document).ready(function(){
 		}
 
 	}); //end change
+
+
+	$('main').bind('swipeleft', function(event){
+		$('#pianopic').removeClass().addClass('one');
+	}); //end swipe left
+
+	$('main').bind('swiperight', function(event){
+		$('#pianopic').removeClass().addClass('two');
+	}); //end swipe right
+
+	$('main').bind('taphold', function(event){
+		$('#pianopic').removeClass().addClass('three');
+	}); //end taphold
 
 }); //end ready

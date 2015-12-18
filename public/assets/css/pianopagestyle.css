@@ -239,10 +239,10 @@ article h2 {
 	text-align: center;
 }
 
-input:not([type="radio"]):not([type="checkbox"]) {
-    display: block;
-    width: 20em;
-}
+/*input:not([type="radio"]):not([type="checkbox"]) {*/
+    /*display: block;*/
+    /*width: 20em;*/
+/*}*/
 header img.header {
 	padding: 0.5em;
 	margin: 0;
@@ -259,6 +259,7 @@ fieldset.outer {
 }
 fieldset.info{
 	margin-bottom: 2em;
+	margin-left:1em;
     margin-right: 1em;
     border: none;
     border-radius:10px;
@@ -279,13 +280,13 @@ fieldset.music{
     display: flex;
 }
 
-label {
+/*label {
 	display:inline-block;
 	border:dotted;
 	border-color:forestgreen;
 	padding-top:1em;
 	padding-bottom:1em;
-}
+}*/
 #colorlabel {
 	display:inline-block;
 	border:none;
@@ -301,7 +302,6 @@ legend {
 textarea {
 	display:block;
 	margin-bottom: 1em;
-	width: 20em;
 }
 
 form{
@@ -310,14 +310,12 @@ form{
 	margin-left:auto;
 	margin-right:auto;
 }
-.form{
-	text-align:center;
-}
 
-button[type=submit] {padding:5px 15px; background:#ccc; border:0 none;
+
+/*button[type=submit] {padding:5px 15px; background:#ccc; border:0 none;
 cursor:pointer;
 border-radius: 5px;
-}
+}*/
 
 button:hover {
 	background:silver;
@@ -351,6 +349,7 @@ article > h1, h3, h4, h5, h6 {
 .error {
 	border-color: red;
 	color: red;
+	font-weight: bold;
 }
 
 input,
@@ -422,4 +421,25 @@ button.violin-btn:hover {
 .header_img {
 	height: 4em;
 	padding:0.5em;
+}
+
+#pianopic {
+	width:100%;
+	height:300px;
+	background-repeat:no-repeat;
+	background-size: 100% 300px;
+	border-radius: 15px;
+	border-color:black;
+	border-style:solid;
+}
+
+.one{
+	background-image:url(../images/onepiano.jpg);
+	width:50%;
+}
+.two{
+	background-image:url(../images/twopiano.jpg);
+}
+.three{
+	background-image:url(../images/threepiano.jpg);
 }
