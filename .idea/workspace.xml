@@ -2,115 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d23f9db-b855-4628-9d9c-48758629937f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/action-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/action-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/alert-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/alert-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-d-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-d-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-d-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-d-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-d-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-d-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-u-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-u-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-u-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-u-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-u-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/arrow-u-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/audio-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/audio-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/back-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/back-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/bars-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/bars-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/bullets-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/bullets-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/calendar-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/calendar-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/camera-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/camera-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/carat-d-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/carat-d-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/carat-l-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/carat-l-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/carat-r-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/carat-r-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/carat-u-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/carat-u-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/check-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/check-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/clock-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/clock-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/cloud-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/cloud-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/comment-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/comment-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/delete-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/delete-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/edit-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/edit-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/eye-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/eye-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/forbidden-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/forbidden-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/forward-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/forward-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/gear-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/gear-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/grid-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/grid-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/heart-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/heart-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/home-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/home-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/info-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/info-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/location-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/location-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/lock-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/lock-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/mail-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/mail-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/minus-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/minus-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/navigation-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/navigation-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/onepiano.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/phone-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/phone-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/plus-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/plus-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/power-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/power-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/recycle-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/recycle-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/refresh-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/refresh-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/search-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/search-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/shop-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/shop-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/star-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/star-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/tag-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/tag-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/threepiano.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/images/twopiano.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/user-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/user-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/video-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/images/icons-png/video-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/emerson_theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/emerson_theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/themes/jquery.mobile.icons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-bg_glass_75_e6c8e3_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-bg_glass_75_ebd8e7_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-bg_hexagon_65_f714d0_12x10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-bg_hexagon_75_3910e1_12x10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_444444_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_555555_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_777620_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_777777_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_9c1dda_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_a01fe7_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_af9e9e_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_cc0000_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/jquery-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/jquery-ui.structure.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/jquery-ui.structure.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/jquery-ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/jquery-ui.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/external/jquery/jquery.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/js/pianopagescript.js" afterPath="$PROJECT_DIR$/public/assets/js/pianopagescript.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/pianopagestyle.css" afterPath="$PROJECT_DIR$/public/assets/css/pianopagestyle.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -137,18 +56,44 @@
       <file leaf-file-name="bio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/bio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.230769">
-              <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+            <state vertical-scroll-proportion="-7.1923075">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="supersecret.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/supersecret.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.65384614">
+              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shh.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/assets/images/Shh.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80898875">
-              <caret line="250" column="47" selection-start-line="250" selection-start-column="47" selection-end-line="250" selection-end-column="47" />
+            <state vertical-scroll-proportion="-2.4230769">
+              <caret line="173" column="16" selection-start-line="173" selection-start-column="16" selection-end-line="173" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -159,6 +104,16 @@
                 <element signature="n#style#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#main#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/external/jquery/jquery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -176,38 +131,10 @@
       <file leaf-file-name="pianopagescript.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/js/pianopagescript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.254902">
-              <caret line="186" column="11" selection-start-line="186" selection-start-column="11" selection-end-line="186" selection-end-column="11" />
+            <state vertical-scroll-proportion="-2.490196">
+              <caret line="31" column="17" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="17" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bach_facsimile.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/assets/images/bach_facsimile.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="orchestra.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/assets/images/orchestra.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Valkerie and horn.gif" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/assets/images/Valkerie and horn.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="violin.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/assets/images/violin.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -224,14 +151,22 @@
       <file leaf-file-name="pianopagestyle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/css/pianopagestyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6666667">
-              <caret line="431" column="4" selection-start-line="431" selection-start-column="4" selection-end-line="431" selection-end-column="4" />
+            <state vertical-scroll-proportion="-4.3333335">
+              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Html5" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -245,8 +180,10 @@
         <option value="$PROJECT_DIR$/lessonsform.html" />
         <option value="$PROJECT_DIR$/public/bio.html" />
         <option value="$PROJECT_DIR$/public/assets/js/pianopagescript.js" />
-        <option value="$PROJECT_DIR$/public/assets/css/pianopagestyle.css" />
+        <option value="$PROJECT_DIR$/public/assets/js/supersecret.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/assets/css/pianopagestyle.css" />
+        <option value="$PROJECT_DIR$/public/supersecret.html" />
       </list>
     </option>
   </component>
@@ -259,10 +196,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="596" />
-    <option name="y" value="42" />
-    <option name="width" value="1050" />
-    <option name="height" value="567" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -316,6 +253,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dgmd_e-20_assignment2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dgmd_e-20_assignment2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="external" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -394,9 +353,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../p3" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dgmd_e-20_assignment2\public" />
       <recent name="C:\xampp\htdocs\dgmd_e-20_assignment2\public\assets\images" />
       <recent name="C:\xampp\htdocs\dgmd_e-20_assignment2\public\assets\css" />
     </key>
@@ -446,10 +407,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="596" y="42" width="1050" height="567" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20309478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15373352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -482,23 +443,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#aside#0;n#main#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#main#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -544,23 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="100" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#aside#0;n#main#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#main#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/lessonsform.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -582,23 +509,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="173" selection-start-line="25" selection-start-column="173" selection-end-line="25" selection-end-column="173" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#aside#0;n#main#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#main#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,10 +548,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/bio.html">
+    <entry file="file://$PROJECT_DIR$/public/lessonsform.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769">
-          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -654,9 +564,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/lessonsform.html">
+    <entry file="file://$PROJECT_DIR$/public/bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
+        <state vertical-scroll-proportion="-7.1923075">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/external/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -664,24 +582,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/js/pianopagescript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.254902">
-          <caret line="186" column="11" selection-start-line="186" selection-start-column="11" selection-end-line="186" selection-end-column="11" />
+        <state vertical-scroll-proportion="-2.490196">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/pianopagestyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6666667">
-          <caret line="431" column="4" selection-start-line="431" selection-start-column="4" selection-end-line="431" selection-end-column="4" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/public/assets/images/Shh.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80898875">
-          <caret line="250" column="47" selection-start-line="250" selection-start-column="47" selection-end-line="250" selection-end-column="47" />
+        <state vertical-scroll-proportion="-2.4230769">
+          <caret line="173" column="16" selection-start-line="173" selection-start-column="16" selection-end-line="173" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#article#0;n#main#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -691,6 +606,31 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#main#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/css/pianopagestyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.3333335">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/supersecret.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65384614">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#1;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
